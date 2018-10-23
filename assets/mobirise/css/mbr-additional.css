@@ -1336,6 +1336,7 @@ body {
   padding: .5rem;
 }
 .cid-r7kiGCD54e ul.list-inline img {
+  max-height: 2.5em !important;
   max-width: 8rem;
   padding-bottom: .5rem;
 }

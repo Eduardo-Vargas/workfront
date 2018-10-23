@@ -671,6 +671,7 @@
               },
               "align-self": "center",
               "img": {
+                "max-height": "2.5em !important",
                 "max-width": "8rem",
                 "padding-bottom": ".5rem",
                 "& when (@grayFilter)": {
